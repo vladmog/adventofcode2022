@@ -2,7 +2,6 @@ import math
 
 # Parse input
 lines = []
-
 with open("input.txt") as f:
     lines = f.readlines()
 
